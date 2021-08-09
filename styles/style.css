@@ -1,0 +1,57 @@
+body{
+    background-color: #F3F1FF;
+    font-family: Poppins !important;
+}
+.navbar .brand-logo{
+    width: 40px;
+}
+.navbar img{
+    width: 40px;
+    border-radius: 50%;
+    
+}
+.bg-primary{
+    background-color: #562EFF !important;
+}
+.p-right{
+    padding-right: 35px;
+}
+.m-left{
+    margin-left: 20px;
+    
+}
+main{
+    max-width: 870px;
+    
+}
+.top-player{
+    background-color: #FFFFFF;
+}
+.navbar-nav a{
+    color: white !important;
+    font-weight: 500 !important;
+    
+}
+.player img{
+    width: 56px;
+}
+.cont-head{
+    color: #562EFF;
+}
+.blog p{
+    color: gray;
+}
+.blog img{
+    width: 117px;
+}
+.card{
+    border-radius: 8px;
+}
+.card-group img{
+    width: 210px;
+    
+}
+.card-text {
+    color: #ED6B4F !important;
+    
+}
